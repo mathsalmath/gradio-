@@ -1,3 +1,6 @@
+# This script will count the number of characters in a string.
+#-----------------------------------------------------------------------
+
 import gradio as gr
 
 def count_letters(text: str) -> int:
